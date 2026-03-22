@@ -2,6 +2,7 @@
 
 Render any 3D object as animated ASCII art on a website via JavaScript.  
 Includes the Stanford Bunny as a ready-to-use example, plus a converter that turns any `.obj` file into an equivalent self-contained renderer script.
+<img width="950" height="915" alt="image" src="https://github.com/user-attachments/assets/889d604f-2864-4f0d-b317-720d422347b0" />
 
 ---
 
@@ -89,4 +90,5 @@ If the `.obj` has no normals, smooth per-vertex normals are computed automatical
 - **Orientation** — models export in various coordinate systems.  If your model appears sideways or upside-down, rotate it 90° in Blender before exporting.
 - **Scale** — the converter normalises the mesh to fit the `[-1, 1]³` cube automatically.
 - **Multiple models on one page** — give each `<pre>` a unique `id` and use `--id` when converting each model.
+
 
