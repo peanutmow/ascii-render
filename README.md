@@ -2,6 +2,7 @@
 
 Render any 3D object as animated ASCII art on a website via JavaScript.  
 Includes the Stanford Bunny as a ready-to-use example, plus a converter that turns any `.obj` file into an equivalent self-contained renderer script.
+
 <img width="950" height="915" alt="image" src="https://github.com/user-attachments/assets/889d604f-2864-4f0d-b317-720d422347b0" />
 
 ---
